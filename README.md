@@ -1,4 +1,4 @@
-# 🤖 AI Code Reviewer
+# 💻 AI Code Reviewer
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-code-Reviewer?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-code-Reviewer?style=social)
@@ -6,41 +6,40 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1625014618427-fbc980b974f5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Code Reviewer Logo" width="300"/>
+  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Code Reviewer Logo" width="300"/>
 </p>
 
+> 🧠 Enhance your code quality with AI-powered code reviews, suggestions, and automated improvements.
 
-> 🚀 Enhance your code quality with AI-powered code reviews, suggestions, and automated improvements.
+## ⭐ Features
 
-## ✨ Features
+- 🔬 **Code Analysis**: Get detailed insights into your code quality, potential bugs, and improvement areas
+- 🔄 **Multi-AI Integration**: Choose between Google Gemini, Deepseek AI, and more for your code reviews
+- 📊 **Diagram Generation**: Generate diagrams and visual representations of your code
+- 🎨 **Syntax Highlighting**: Beautiful code display with Prism.js
+- 📱 **Responsive Design**: Works smoothly on both desktop and mobile devices
+- ⚡ **Real-time Processing**: Instant AI analysis as you type or upload code
 
-- 🔍 **Smart Code Analysis**: Get detailed insights into your code quality, potential bugs, and improvement areas
-- 🤖 **Multi-AI Integration**: Choose between Google Gemini, Deepseek AI, and more for your code reviews
-- 🖼️ **Image Generation**: Generate diagrams and visual representations of your code
-- 📝 **Syntax Highlighting**: Beautiful code display with Prism.js
-- 📱 **Responsive UI**: Works smoothly on both desktop and mobile devices
-- 🔄 **Real-time Feedback**: Instant AI analysis as you type or upload code
-
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 ### Frontend
 - ⚛️ React 19 with Vite
 - 🎨 TailwindCSS for styling
-- 📦 React Markdown & Prism.js for code display
-- 🔌 Axios for API communication
+- 📝 React Markdown & Prism.js for code display
+- 🌐 Axios for API communication
 
 ### Backend
-- 🟢 Node.js with Express 5
-- 🧠 Google Gemini AI
+- 🖥️ Node.js with Express 5
+- 🤖 Google Gemini AI
 - 🔮 Deepseek AI
 - 🖼️ Hugging Face for image generation
-- 🔒 dotenv for environment variable management
+- 🔐 dotenv for environment variable management
 
 ## 📋 Prerequisites
 
-- Node.js 18+
-- npm or yarn
-- API keys for:
+- 📦 Node.js 18+
+- 📦 npm or yarn
+- 🔑 API keys for:
   - Google Gemini AI
   - Deepseek AI
   - Hugging Face (optional, for image generation)
@@ -79,25 +78,25 @@ npm run dev
 
 The app will be running at http://localhost:5173
 
-## 📷 Screenshots
+## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/AI-code-Reviewer/main/assets/screenshot1.png" alt="AI Code Reviewer Dashboard" width="700"/>
+  <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Code Reviewer Dashboard" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/AI-code-Reviewer/main/assets/screenshot2.png" alt="Code Review Example" width="700"/>
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Code Review Example" width="700"/>
 </p>
 
 ## 📝 Usage
 
-1. 📋 Paste your code into the editor or upload a file
+1. 📄 Paste your code into the editor or upload a file
 2. 🤖 Select your preferred AI engine (Gemini, Deepseek)
 3. 🔍 Click "Review Code" to get AI-powered suggestions
 4. 📊 Explore the detailed analysis and recommendations
-5. 🖼️ Generate visual representations with the "Generate Diagram" feature
+5. 📈 Generate visual representations with the "Generate Diagram" feature
 
-## 🔄 Workflow
+## ⚙️ Workflow
 
 ```mermaid
 graph TD
@@ -110,7 +109,7 @@ graph TD
     G --> H[User Reviews Suggestions]
 ```
 
-## 🤝 Contributing
+## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -120,11 +119,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
+## 👏 Acknowledgements
 
 - [Google Gemini AI](https://ai.google.dev/)
 - [Deepseek AI](https://www.deepseek.com/)
