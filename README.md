@@ -6,8 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/AI-code-Reviewer/main/assets/logo.png" alt="AI Code Reviewer Logo" width="200"/>
+  <img src="https://images.unsplash.com/photo-1625014618427-fbc980b974f5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="AI Code Reviewer Logo" width="300"/>
 </p>
+
 
 > 🚀 Enhance your code quality with AI-powered code reviews, suggestions, and automated improvements.
 
