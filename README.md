@@ -1,4 +1,3 @@
-# AI-code-Reviewer
 # 🤖 AI Code Reviewer
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/AI-code-Reviewer?style=social)
